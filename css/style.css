@@ -563,6 +563,11 @@ section {
   background: #eee;
 }
 
+.plan .box-container .box img{
+  width: 50%;
+  margin-left: 15rem;
+}
+
 .plan .box-container .box .btn {
   position: absolute;
   bottom: -2rem;
